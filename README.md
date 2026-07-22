@@ -1,9 +1,10 @@
 # Hi, I'm Harris
 
-**AI Engineer & Full Stack Developer — I build intelligent systems that run in production.**
+**AI Engineer & Full Stack Developer — I cut operating costs with AI automation.**
 
 Most code never ships. Mine does. I build AI agents, SaaS platforms, and automation
-systems that are live right now, saving clients time and money every day.
+systems that are live in production right now — replacing manual hours, reducing headcount
+pressure, and taking recurring operational work off my clients' plates.
 
 If you need someone who understands both the technology and the business goal, we should talk.
 
